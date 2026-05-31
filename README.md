@@ -25,15 +25,15 @@ StudyBloom is a desktop study analytics application developed using Python. The 
 
 ### Home Page
 
-![Home Page](Screenshot%20todays%20date%20123318.png)
+![Home Page](Screenshot%202026-05-31%20123318.png)
 
 ### Sessions and Analytics
 
-![Sessions and Analytics](Screenshot%20todays%20date%20123441.png)
+![Sessions and Analytics](Screenshot%202026-05-31%20123441.png)
 
 ### Study Graph
 
-![Study Graph](Screenshot%20todays%20date%20123649.png)
+![Study Graph](Screenshot%202026-05-31%20123649.png)
 
 ## Project Structure
 
